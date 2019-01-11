@@ -13,5 +13,7 @@ Voici la procédure pour ajouter vos modifications:
 </ol>
 
 Les fonctions se trouvent dans le fichier fonctions.py
+
 Nos solutions se trouve dans le dossier 'nos_solutions'
+
 Et pour la comparaison des voisins et le calcul de l'hypervolume, il faut voir le Main-Comparaisons.py dans le fichier hypervolume 
